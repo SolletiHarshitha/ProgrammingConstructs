@@ -27,6 +27,7 @@ switch(option){
     default:
         console.log("Invalid option!");
 }
+
 function CelsiusToFahrenheit(celsius){
     return (celsius * 9) / 5 + 32;
 }
